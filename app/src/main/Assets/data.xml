@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<users>
+
+    <user>
+
+        <name>San</name>
+
+        <designation>Lider</designation>
+
+        <location>peru</location>
+
+    </user>
+
+    <user>
+
+        <name>tere</name>
+
+        <designation>Policia a</designation>
+
+        <location>puebla</location>
+
+    </user>
+
+    <user>
+
+        <name>Dasari</name>
+
+        <designation>Contador</designation>
+
+        <location>Guru</location>
+
+    </user>
+
+</users>
